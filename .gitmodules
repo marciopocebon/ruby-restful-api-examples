@@ -1,0 +1,3 @@
+[submodule "ruby-restful-api-example-padrino"]
+	path = ruby-restful-api-example-padrino
+	url = git@github.com:marioluan/ruby-restful-api-example-padrino.git
